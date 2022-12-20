@@ -1,0 +1,13 @@
+-----------------------------------------------------------
+MultiNB
+Total,MultiNB,{'CountVectorizer': 0.6243365492976292, 'OneHotEncoder': 0.5083617342115717, 'TfidfVectorizer': 0.6158253587064794}
+Best,MultiNB,CountVectorizer,0.62434
+-----------------------------------------------------------
+SGD
+Total,SGD,{'CountVectorizer': 0.6394862590977154, 'OneHotEncoder': 0.5104748343516003, 'TfidfVectorizer': 0.6360482884438837, 'HashingVectorizer': 0.5132542324090458}
+Best,SGD,CountVectorizer,0.63949
+-----------------------------------------------------------
+LogReg
+Total,LogReg,{'CountVectorizer': 0.6330183314211806, 'OneHotEncoder': 0.5083443797929467, 'TfidfVectorizer': 0.6298473417342269, 'HashingVectorizer': 0.5149379269646944}
+Best,LogReg,CountVectorizer,0.63302
+-----------------------------------------------------------
